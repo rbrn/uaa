@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.db.hackathon"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.db.hackathon",
+    "packageFolder": "com/db/hackathon",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTQzYjk2MDA0MWYzOGExMTk1YjdjYWJlOTZhNDE5ZmU1Y2Q4ODNjOGMwODFhNzQ4YWU3ZDEwNjcwYTdkZmVlYjIxOTU4Y2Q3MTY5MDJiZmFiNGUwNzFlNTNmZWEyYWZjZjQ0MTQ3Mzk4MTgxOTBjYmIyMjkzNTFlNGU3MWMwNjI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
