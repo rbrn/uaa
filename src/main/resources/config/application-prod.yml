@@ -135,7 +135,7 @@ uaa:
     alias: selfsigned
   web-client-configuration:
     # Access Token is valid for 5 mins
-    access-token-validity-in-seconds: 300
+    access-token-validity-in-seconds: 604800
     # Refresh Token is valid for 7 days
     refresh-token-validity-in-seconds-for-remember-me: 604800
     #change client secret in production, keep in sync with gateway configuration
