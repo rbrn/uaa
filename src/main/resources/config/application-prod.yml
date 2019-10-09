@@ -109,7 +109,7 @@ jhipster:
     authentication:
       jwt:
         # Access Token is valid for 5 mins
-        token-validity-in-seconds: 300
+        token-validity-in-seconds: 252000
         # Refresh Token is valid for 7 days
         token-validity-in-seconds-for-remember-me: 252000
   mail: # specific JHipster mail property, for standard properties see MailProperties
