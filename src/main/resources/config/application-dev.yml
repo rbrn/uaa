@@ -22,6 +22,7 @@ logging:
 eureka:
     instance:
         prefer-ip-address: false
+        hostname: uaaxteam.herokuapp.com
 
     client:
         service-url:
