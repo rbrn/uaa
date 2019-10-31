@@ -21,8 +21,7 @@ logging:
 
 eureka:
     instance:
-        prefer-ip-address: false
-        hostname: uaaxteam.herokuapp.com
+        prefer-ip-address: true
     client:
         service-url:
             #defaultZone: http://admin:admin@xteameureka.azurewebsites.net/eureka
